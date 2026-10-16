@@ -1,0 +1,7 @@
+# big file that notebook 01 regenerates (72 MB) - too large to push to GitHub comfortably
+data/processed/transactions_clean.csv
+# python / jupyter noise
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env

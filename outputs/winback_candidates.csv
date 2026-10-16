@@ -1,0 +1,738 @@
+customer_id,cluster_name,segment,recency_days,frequency,monetary
+16754,VIP Loyalists,Cant Lose Them,373,29,54692.82
+13093,VIP Loyalists,Cant Lose Them,276,55,53283.3
+17850,VIP Loyalists,Cant Lose Them,373,155,50407.77
+15098,Slipping Regulars,Needs Attention,183,3,39619.5
+13902,Slipping Regulars,Cant Lose Them,633,5,30375.26
+12482,VIP Loyalists,Cant Lose Them,577,27,21941.72
+15749,Slipping Regulars,At Risk,236,3,21535.9
+15808,VIP Loyalists,Cant Lose Them,307,21,17038.95
+13564,VIP Loyalists,Cant Lose Them,355,36,15613.1
+17448,VIP Loyalists,Cant Lose Them,530,41,14375.01
+18087,VIP Loyalists,Cant Lose Them,291,16,13563.62
+13952,VIP Loyalists,Cant Lose Them,218,14,12790.89
+14134,Slipping Regulars,Cant Lose Them,383,15,11123.35
+15032,Slipping Regulars,Cant Lose Them,257,8,10515.05
+14828,VIP Loyalists,Cant Lose Them,197,13,9803.46
+14063,Slipping Regulars,Cant Lose Them,687,7,9471.5
+14439,Slipping Regulars,Cant Lose Them,320,5,9443.04
+17504,VIP Loyalists,Cant Lose Them,207,18,9238.42
+17230,VIP Loyalists,Cant Lose Them,265,18,9159.45
+14160,Slipping Regulars,Cant Lose Them,611,7,8421.47
+13206,Slipping Regulars,Cant Lose Them,401,13,8308.19
+13715,VIP Loyalists,Cant Lose Them,282,17,8108.09
+17409,Slipping Regulars,Loyal Customers,185,10,7793.51
+18231,VIP Loyalists,Cant Lose Them,193,28,6815.47
+15413,Slipping Regulars,Cant Lose Them,692,5,6798.72
+14028,Slipping Regulars,At Risk,551,3,6786.0
+14154,Slipping Regulars,Cant Lose Them,240,8,6263.6
+13615,Slipping Regulars,Cant Lose Them,319,8,6212.23
+13935,Slipping Regulars,At Risk,597,3,6116.92
+12835,VIP Loyalists,Cant Lose Them,428,41,5972.19
+14105,Slipping Regulars,Cant Lose Them,240,5,5703.98
+14249,Slipping Regulars,Cant Lose Them,411,12,5400.46
+14442,Slipping Regulars,Cant Lose Them,205,7,5272.02
+15332,Slipping Regulars,Cant Lose Them,367,6,4892.68
+13044,Slipping Regulars,Cant Lose Them,292,11,4818.35
+14081,Slipping Regulars,Cant Lose Them,303,10,4747.52
+13659,Slipping Regulars,Cant Lose Them,206,12,4706.43
+17829,Slipping Regulars,Cant Lose Them,299,5,4680.42
+12625,Slipping Regulars,At Risk,212,4,4627.38
+17508,Slipping Regulars,Cant Lose Them,281,8,4546.78
+13958,Slipping Regulars,Cant Lose Them,380,8,4504.78
+14625,Slipping Regulars,Cant Lose Them,197,11,4429.18
+16546,Slipping Regulars,Cant Lose Them,291,5,4421.04
+17138,Slipping Regulars,Cant Lose Them,276,7,4417.27
+14648,Slipping Regulars,Cant Lose Them,417,15,4374.74
+16125,Slipping Regulars,Cant Lose Them,368,14,4292.35
+14685,Slipping Regulars,Cant Lose Them,577,8,4241.16
+16072,Slipping Regulars,At Risk,289,4,4180.09
+15633,Slipping Regulars,Cant Lose Them,510,13,4156.91
+16858,Slipping Regulars,Cant Lose Them,369,10,4085.74
+14740,Slipping Regulars,Cant Lose Them,198,11,4068.86
+14025,Slipping Regulars,Cant Lose Them,465,8,3969.1
+14465,Slipping Regulars,Cant Lose Them,247,11,3925.85
+13542,Slipping Regulars,Cant Lose Them,377,17,3924.09
+17406,Slipping Regulars,Cant Lose Them,334,13,3874.0
+17646,Slipping Regulars,Cant Lose Them,220,12,3843.16
+14532,Slipping Regulars,Cant Lose Them,237,11,3833.03
+16636,Slipping Regulars,At Risk,439,4,3802.04
+13357,Slipping Regulars,Cant Lose Them,258,5,3795.01
+12857,Slipping Regulars,Cant Lose Them,211,6,3684.25
+14770,Slipping Regulars,Cant Lose Them,233,8,3624.89
+13446,Slipping Regulars,Cant Lose Them,431,11,3613.27
+15079,Slipping Regulars,Cant Lose Them,213,11,3546.75
+14817,Slipping Regulars,Cant Lose Them,201,7,3539.21
+16336,Slipping Regulars,At Risk,421,4,3517.69
+13734,Slipping Regulars,At Risk,509,4,3445.34
+17597,Slipping Regulars,Cant Lose Them,214,5,3425.29
+17876,Slipping Regulars,At Risk,400,3,3424.02
+15222,Slipping Regulars,Cant Lose Them,319,11,3415.66
+17307,Slipping Regulars,Cant Lose Them,396,11,3378.31
+13707,Slipping Regulars,Cant Lose Them,268,5,3365.86
+15369,Slipping Regulars,Cant Lose Them,493,11,3346.43
+12623,Slipping Regulars,Cant Lose Them,277,7,3315.84
+13031,Slipping Regulars,Cant Lose Them,408,5,3292.84
+16351,Slipping Regulars,Cant Lose Them,333,13,3279.13
+12872,Slipping Regulars,Cant Lose Them,327,12,3276.81
+12377,Slipping Regulars,At Risk,316,4,3266.32
+13214,Slipping Regulars,Cant Lose Them,418,7,3264.23
+14669,Slipping Regulars,Cant Lose Them,242,7,3216.78
+12468,Slipping Regulars,Cant Lose Them,188,5,3192.55
+15057,Slipping Regulars,Cant Lose Them,276,5,3184.56
+12976,Slipping Regulars,Cant Lose Them,212,8,3156.38
+13052,Slipping Regulars,Cant Lose Them,213,7,3118.48
+13786,Slipping Regulars,Cant Lose Them,368,6,3112.99
+15538,Slipping Regulars,Cant Lose Them,538,6,3036.1
+17145,Slipping Regulars,At Risk,513,4,3014.64
+12754,Slipping Regulars,At Risk,236,3,3010.74
+15614,Slipping Regulars,At Risk,438,4,3008.86
+16718,Slipping Regulars,Cant Lose Them,370,5,3006.08
+14161,Slipping Regulars,Cant Lose Them,216,7,2996.93
+13485,Slipping Regulars,Cant Lose Them,234,11,2953.92
+14867,Slipping Regulars,Loyal Customers,186,16,2910.41
+16736,Slipping Regulars,Cant Lose Them,506,5,2904.51
+16067,Slipping Regulars,At Risk,563,3,2900.01
+14590,Slipping Regulars,Cant Lose Them,425,20,2871.04
+16467,Slipping Regulars,Cant Lose Them,509,7,2862.4
+13501,Slipping Regulars,At Risk,289,3,2840.26
+17032,Slipping Regulars,Cant Lose Them,604,5,2816.69
+15235,Slipping Regulars,Cant Lose Them,218,16,2772.76
+15353,Slipping Regulars,Cant Lose Them,255,7,2772.57
+15817,Slipping Regulars,At Risk,421,3,2766.4
+16772,Slipping Regulars,At Risk,424,3,2760.1
+13963,Slipping Regulars,Cant Lose Them,309,17,2748.32
+17241,Slipping Regulars,Cant Lose Them,386,12,2736.64
+16335,Slipping Regulars,Cant Lose Them,552,7,2726.52
+13819,Slipping Regulars,Cant Lose Them,302,6,2631.1
+12755,Slipping Regulars,Cant Lose Them,281,11,2629.5
+14431,Slipping Regulars,At Risk,303,4,2567.1
+12982,Slipping Regulars,Cant Lose Them,243,8,2562.12
+17465,Slipping Regulars,Cant Lose Them,426,7,2533.64
+16889,Slipping Regulars,Cant Lose Them,195,6,2526.65
+16499,Slipping Regulars,Cant Lose Them,361,8,2509.64
+12978,Slipping Regulars,Cant Lose Them,386,5,2496.07
+12967,Slipping Regulars,At Risk,359,3,2472.37
+16202,Slipping Regulars,Cant Lose Them,361,9,2467.04
+14195,Slipping Regulars,Cant Lose Them,202,6,2401.4
+16105,Slipping Regulars,Cant Lose Them,249,5,2386.19
+13151,Slipping Regulars,At Risk,296,3,2385.66
+14256,Slipping Regulars,Cant Lose Them,261,5,2384.14
+14496,Slipping Regulars,Cant Lose Them,312,7,2341.54
+12733,Slipping Regulars,At Risk,235,4,2325.97
+15946,Slipping Regulars,At Risk,503,3,2304.18
+18095,Slipping Regulars,Cant Lose Them,313,5,2303.09
+18051,Slipping Regulars,Cant Lose Them,635,7,2275.98
+13059,Slipping Regulars,Cant Lose Them,250,10,2261.22
+15015,Slipping Regulars,Cant Lose Them,502,13,2255.27
+15629,Slipping Regulars,At Risk,451,4,2240.9
+16823,Slipping Regulars,Cant Lose Them,228,7,2236.14
+16883,Slipping Regulars,Cant Lose Them,188,19,2236.11
+16812,Slipping Regulars,At Risk,361,4,2216.8
+15476,Slipping Regulars,At Risk,381,4,2180.28
+13762,Slipping Regulars,Cant Lose Them,219,5,2165.76
+17550,Slipping Regulars,Cant Lose Them,198,9,2165.54
+15944,Slipping Regulars,At Risk,277,4,2164.24
+17822,Slipping Regulars,Cant Lose Them,421,5,2154.08
+16275,Slipping Regulars,At Risk,197,3,2151.11
+16004,Slipping Regulars,Cant Lose Them,475,5,2146.39
+17732,Slipping Regulars,Cant Lose Them,373,8,2144.17
+15638,Slipping Regulars,Cant Lose Them,379,6,2137.2
+16520,Slipping Regulars,Cant Lose Them,187,6,2131.68
+12802,Slipping Regulars,Cant Lose Them,187,5,2120.42
+13152,Slipping Regulars,Cant Lose Them,418,7,2114.98
+13407,Slipping Regulars,At Risk,579,3,2111.89
+13753,Slipping Regulars,At Risk,288,4,2094.57
+14469,Slipping Regulars,At Risk,417,4,2093.46
+14399,Slipping Regulars,Cant Lose Them,395,8,2093.21
+17113,Slipping Regulars,Cant Lose Them,575,6,2092.16
+15456,Slipping Regulars,Cant Lose Them,284,10,2091.52
+13478,Slipping Regulars,Cant Lose Them,470,5,2068.03
+18009,Slipping Regulars,Cant Lose Them,236,8,2065.48
+12868,Slipping Regulars,Loyal Customers,186,8,2043.76
+18258,Slipping Regulars,Cant Lose Them,465,6,2040.97
+14988,Slipping Regulars,Cant Lose Them,212,7,2038.65
+16331,Slipping Regulars,Cant Lose Them,433,6,2037.7
+16795,Slipping Regulars,At Risk,366,3,2035.21
+12873,Slipping Regulars,At Risk,283,3,2027.3
+16197,Slipping Regulars,Cant Lose Them,470,9,2016.71
+14225,Slipping Regulars,At Risk,435,4,2009.17
+13696,Slipping Regulars,At Risk,422,3,2008.7
+12986,Slipping Regulars,Cant Lose Them,429,10,1998.34
+12975,Slipping Regulars,Cant Lose Them,437,6,1993.99
+13874,Slipping Regulars,Cant Lose Them,359,7,1989.2
+16529,Slipping Regulars,At Risk,191,4,1986.8
+16065,Slipping Regulars,Cant Lose Them,366,8,1975.13
+14634,Slipping Regulars,At Risk,438,4,1971.82
+13693,Slipping Regulars,Cant Lose Them,375,9,1966.32
+16032,Slipping Regulars,Cant Lose Them,457,6,1965.72
+15658,Slipping Regulars,Cant Lose Them,191,8,1964.14
+16176,Slipping Regulars,At Risk,422,4,1964.04
+16290,Slipping Regulars,At Risk,465,4,1957.7
+15425,Slipping Regulars,At Risk,401,4,1941.12
+15789,Slipping Regulars,Cant Lose Them,359,6,1932.01
+16619,Slipping Regulars,At Risk,264,4,1916.53
+12725,Slipping Regulars,At Risk,372,3,1906.76
+15381,Slipping Regulars,Cant Lose Them,214,5,1887.62
+14000,Slipping Regulars,Cant Lose Them,212,5,1877.59
+16742,Slipping Regulars,Cant Lose Them,493,13,1870.07
+16631,Slipping Regulars,Cant Lose Them,482,7,1867.02
+15248,Slipping Regulars,At Risk,412,3,1865.03
+14130,Slipping Regulars,At Risk,320,4,1858.77
+17152,Slipping Regulars,At Risk,195,4,1830.5
+16163,Slipping Regulars,Cant Lose Them,233,6,1822.03
+12582,Slipping Regulars,At Risk,239,4,1820.4
+13561,Slipping Regulars,Cant Lose Them,216,11,1803.4
+14870,Slipping Regulars,Cant Lose Them,262,6,1794.6
+17165,Slipping Regulars,Cant Lose Them,285,6,1783.63
+16611,Slipping Regulars,Cant Lose Them,187,6,1776.63
+18220,Slipping Regulars,Cant Lose Them,227,6,1771.7
+15972,Slipping Regulars,Cant Lose Them,457,5,1769.33
+16692,Slipping Regulars,At Risk,257,4,1764.7
+16797,Slipping Regulars,Cant Lose Them,394,5,1761.02
+16510,Slipping Regulars,Cant Lose Them,373,6,1757.25
+15100,Slipping Regulars,Cant Lose Them,334,7,1750.1
+16087,Slipping Regulars,Cant Lose Them,390,5,1739.92
+13920,Slipping Regulars,At Risk,432,4,1734.88
+15777,Slipping Regulars,Cant Lose Them,242,7,1732.16
+14896,Slipping Regulars,Cant Lose Them,205,8,1727.3
+18239,Slipping Regulars,Cant Lose Them,219,6,1712.26
+13665,Slipping Regulars,At Risk,387,3,1711.66
+16124,Slipping Regulars,At Risk,318,4,1709.39
+15221,Slipping Regulars,At Risk,367,4,1702.0
+12932,Slipping Regulars,Cant Lose Them,540,8,1698.56
+16010,Slipping Regulars,Cant Lose Them,246,11,1692.91
+13294,Slipping Regulars,At Risk,190,3,1689.53
+15911,Slipping Regulars,Cant Lose Them,624,8,1683.79
+13648,Slipping Regulars,Cant Lose Them,401,8,1681.12
+13800,Slipping Regulars,At Risk,310,3,1679.56
+16725,Slipping Regulars,Cant Lose Them,303,13,1675.41
+16329,Slipping Regulars,At Risk,428,4,1664.92
+12870,Slipping Regulars,At Risk,376,3,1662.05
+15649,Slipping Regulars,At Risk,337,4,1660.35
+16625,Slipping Regulars,Cant Lose Them,275,5,1651.08
+13711,Slipping Regulars,Cant Lose Them,219,9,1632.61
+15167,Slipping Regulars,Cant Lose Them,321,5,1627.62
+14831,Slipping Regulars,At Risk,681,3,1623.97
+12813,Slipping Regulars,At Risk,502,3,1621.8
+12383,Slipping Regulars,Loyal Customers,185,5,1617.31
+15607,Slipping Regulars,Cant Lose Them,337,9,1616.37
+15422,Slipping Regulars,Cant Lose Them,324,7,1615.02
+15013,Slipping Regulars,Cant Lose Them,488,10,1610.82
+13154,Slipping Regulars,At Risk,400,3,1609.29
+13900,Slipping Regulars,Loyal Customers,184,6,1608.09
+14920,Slipping Regulars,At Risk,213,3,1607.17
+14850,Slipping Regulars,Cant Lose Them,312,7,1599.76
+17853,Slipping Regulars,At Risk,408,3,1596.29
+17028,Slipping Regulars,At Risk,582,3,1593.83
+16860,Slipping Regulars,At Risk,453,3,1593.67
+13156,Slipping Regulars,At Risk,386,3,1586.54
+16096,Slipping Regulars,At Risk,265,4,1584.97
+13740,Slipping Regulars,Cant Lose Them,241,5,1582.77
+13239,Slipping Regulars,Cant Lose Them,262,5,1579.84
+14489,Slipping Regulars,At Risk,208,4,1574.93
+14492,Slipping Regulars,Cant Lose Them,431,7,1574.36
+13202,Slipping Regulars,Cant Lose Them,395,7,1571.35
+12549,Slipping Regulars,Cant Lose Them,576,5,1570.68
+16716,Slipping Regulars,At Risk,267,3,1568.28
+16256,Slipping Regulars,At Risk,267,3,1559.57
+15279,Slipping Regulars,Cant Lose Them,355,5,1554.84
+14136,Slipping Regulars,Cant Lose Them,401,5,1553.96
+17851,Slipping Regulars,Cant Lose Them,423,6,1552.35
+14186,Slipping Regulars,Cant Lose Them,428,5,1550.63
+13554,Slipping Regulars,Cant Lose Them,381,7,1547.46
+13783,Slipping Regulars,At Risk,488,4,1542.09
+15798,Slipping Regulars,At Risk,493,3,1535.37
+17454,Slipping Regulars,Cant Lose Them,193,10,1532.64
+15326,Slipping Regulars,Cant Lose Them,334,5,1529.82
+14304,Slipping Regulars,At Risk,223,3,1523.81
+12926,Slipping Regulars,At Risk,412,4,1523.59
+17990,Slipping Regulars,Cant Lose Them,237,6,1522.57
+14220,Slipping Regulars,At Risk,248,4,1515.0
+14682,Slipping Regulars,Cant Lose Them,188,6,1514.81
+12369,Slipping Regulars,At Risk,414,3,1511.15
+15732,Slipping Regulars,Cant Lose Them,213,10,1499.42
+15590,Slipping Regulars,Cant Lose Them,383,5,1496.6
+14068,Slipping Regulars,At Risk,321,4,1493.32
+16314,Slipping Regulars,At Risk,390,3,1491.4
+16037,Slipping Regulars,Cant Lose Them,270,5,1489.44
+18214,Slipping Regulars,At Risk,531,4,1480.99
+14695,Slipping Regulars,At Risk,520,3,1466.72
+13360,Slipping Regulars,At Risk,432,4,1464.1
+16586,Slipping Regulars,At Risk,249,3,1462.78
+13042,Slipping Regulars,At Risk,599,3,1454.84
+13649,Slipping Regulars,Cant Lose Them,257,6,1453.68
+18106,Slipping Regulars,Cant Lose Them,330,6,1441.06
+12389,Slipping Regulars,At Risk,403,3,1433.33
+13531,Slipping Regulars,Cant Lose Them,206,6,1433.07
+13475,Slipping Regulars,At Risk,192,4,1431.78
+17582,Slipping Regulars,Cant Lose Them,237,5,1429.95
+16980,Slipping Regulars,At Risk,256,3,1422.83
+17438,Slipping Regulars,Cant Lose Them,254,5,1412.62
+17610,Slipping Regulars,Cant Lose Them,541,5,1410.29
+15173,Slipping Regulars,Cant Lose Them,381,7,1399.26
+18202,Slipping Regulars,At Risk,200,3,1396.99
+16129,Slipping Regulars,At Risk,408,3,1396.05
+13382,Slipping Regulars,Cant Lose Them,281,5,1387.58
+17496,Slipping Regulars,At Risk,359,4,1385.89
+14909,Slipping Regulars,At Risk,438,3,1380.98
+15141,Slipping Regulars,Cant Lose Them,458,7,1378.31
+16727,Slipping Regulars,At Risk,365,4,1377.77
+17714,Slipping Regulars,Cant Lose Them,321,5,1376.58
+16300,Slipping Regulars,At Risk,431,3,1367.32
+14114,Slipping Regulars,Cant Lose Them,274,7,1364.09
+13074,Slipping Regulars,At Risk,512,4,1362.84
+16588,Slipping Regulars,At Risk,387,4,1361.28
+17150,Slipping Regulars,Cant Lose Them,377,6,1357.95
+14316,Slipping Regulars,Cant Lose Them,423,5,1355.34
+18085,Slipping Regulars,At Risk,331,4,1341.85
+12960,Slipping Regulars,At Risk,414,4,1322.07
+13803,Slipping Regulars,At Risk,256,3,1319.11
+15751,Slipping Regulars,Cant Lose Them,461,11,1318.84
+13506,Slipping Regulars,Cant Lose Them,317,5,1308.53
+16282,Slipping Regulars,At Risk,340,3,1307.58
+12765,Slipping Regulars,Cant Lose Them,473,6,1299.58
+16756,Slipping Regulars,Cant Lose Them,215,7,1287.42
+14478,Slipping Regulars,At Risk,383,4,1276.66
+17142,Slipping Regulars,At Risk,240,4,1275.25
+14679,Slipping Regulars,At Risk,382,3,1272.95
+15439,Slipping Regulars,At Risk,405,4,1269.05
+16894,Slipping Regulars,At Risk,503,3,1265.26
+13916,Slipping Regulars,At Risk,464,4,1260.51
+17343,Slipping Regulars,Cant Lose Them,356,6,1259.94
+17635,Slipping Regulars,At Risk,425,3,1256.83
+17862,Slipping Regulars,At Risk,324,4,1254.89
+15441,Slipping Regulars,At Risk,397,3,1254.21
+13855,Slipping Regulars,At Risk,501,4,1253.94
+16296,Slipping Regulars,At Risk,627,4,1245.97
+13443,Slipping Regulars,Cant Lose Them,449,6,1236.92
+13201,Slipping Regulars,At Risk,503,4,1233.06
+12805,Slipping Regulars,At Risk,382,4,1230.95
+16159,Slipping Regulars,At Risk,282,4,1230.29
+14821,Slipping Regulars,Cant Lose Them,367,7,1230.15
+13243,Slipping Regulars,Cant Lose Them,204,5,1220.38
+13863,Slipping Regulars,At Risk,248,4,1217.63
+15580,Slipping Regulars,Cant Lose Them,377,8,1216.15
+14512,Slipping Regulars,Cant Lose Them,188,7,1215.97
+15661,Slipping Regulars,Cant Lose Them,318,8,1215.95
+13440,Slipping Regulars,Cant Lose Them,424,7,1213.95
+13019,Slipping Regulars,Cant Lose Them,380,6,1212.95
+16714,Slipping Regulars,At Risk,318,3,1209.38
+14320,Slipping Regulars,Cant Lose Them,207,5,1204.12
+16946,Slipping Regulars,Cant Lose Them,384,5,1199.54
+16634,Slipping Regulars,Cant Lose Them,223,6,1198.3
+17713,Slipping Regulars,At Risk,383,4,1198.09
+16307,Slipping Regulars,At Risk,430,3,1194.92
+17531,Slipping Regulars,At Risk,191,3,1194.47
+13723,Slipping Regulars,Cant Lose Them,218,6,1194.08
+13976,Slipping Regulars,At Risk,207,4,1192.36
+14275,Slipping Regulars,Cant Lose Them,396,6,1189.38
+16471,Slipping Regulars,At Risk,275,4,1186.18
+15259,Slipping Regulars,At Risk,513,4,1182.38
+17021,Slipping Regulars,Cant Lose Them,443,6,1182.22
+13405,Slipping Regulars,Cant Lose Them,205,5,1181.56
+13293,Slipping Regulars,Cant Lose Them,393,6,1180.34
+13395,Slipping Regulars,Needs Attention,186,3,1180.23
+15377,Slipping Regulars,At Risk,383,4,1179.95
+16614,Slipping Regulars,Needs Attention,183,3,1179.79
+15303,Slipping Regulars,At Risk,291,3,1178.78
+15600,Slipping Regulars,At Risk,429,4,1178.71
+18025,Slipping Regulars,Cant Lose Them,380,6,1177.72
+15210,Slipping Regulars,At Risk,226,3,1176.19
+17239,Slipping Regulars,At Risk,313,4,1174.15
+13299,Slipping Regulars,At Risk,269,3,1173.3
+18071,Slipping Regulars,Cant Lose Them,258,6,1169.68
+13797,Slipping Regulars,At Risk,437,3,1168.45
+18057,Slipping Regulars,At Risk,394,3,1168.14
+17525,Slipping Regulars,At Risk,360,3,1161.9
+17978,Slipping Regulars,At Risk,366,4,1159.99
+16926,Slipping Regulars,Cant Lose Them,372,5,1158.66
+17342,Slipping Regulars,At Risk,380,4,1155.84
+17127,Slipping Regulars,Cant Lose Them,429,5,1155.03
+15064,Slipping Regulars,At Risk,411,4,1154.41
+16167,Slipping Regulars,Cant Lose Them,415,5,1149.87
+13462,Slipping Regulars,Cant Lose Them,253,5,1145.6
+14206,Slipping Regulars,At Risk,240,3,1145.21
+17770,Slipping Regulars,Cant Lose Them,199,5,1143.27
+14693,Slipping Regulars,Cant Lose Them,265,7,1139.86
+13497,Slipping Regulars,Cant Lose Them,283,6,1139.83
+15879,Slipping Regulars,At Risk,405,4,1137.8
+16521,Slipping Regulars,At Risk,416,3,1136.36
+15347,Slipping Regulars,At Risk,367,4,1132.3
+14231,Slipping Regulars,Needs Attention,184,4,1131.97
+15695,Slipping Regulars,At Risk,267,4,1131.04
+15586,Slipping Regulars,At Risk,593,3,1128.66
+14450,Slipping Regulars,Loyal Customers,181,7,1128.44
+16838,Slipping Regulars,At Risk,198,4,1126.66
+14479,Slipping Regulars,At Risk,254,4,1124.71
+12402,Slipping Regulars,Cant Lose Them,324,6,1124.15
+17492,Slipping Regulars,At Risk,249,3,1122.42
+13304,Slipping Regulars,At Risk,352,4,1120.79
+12605,Slipping Regulars,At Risk,377,3,1117.45
+15223,Slipping Regulars,Cant Lose Them,226,5,1117.1
+16769,Slipping Regulars,At Risk,261,4,1117.05
+12972,Slipping Regulars,At Risk,414,4,1115.95
+12591,Slipping Regulars,At Risk,318,3,1114.95
+14672,Slipping Regulars,At Risk,235,4,1113.14
+14375,Slipping Regulars,Needs Attention,186,3,1106.82
+13393,Slipping Regulars,At Risk,584,4,1105.85
+17137,Slipping Regulars,Cant Lose Them,417,6,1099.81
+16702,Slipping Regulars,At Risk,416,4,1099.58
+15882,Slipping Regulars,Cant Lose Them,199,8,1096.31
+16306,Slipping Regulars,Cant Lose Them,214,7,1094.72
+12866,Slipping Regulars,At Risk,284,3,1092.35
+14370,Slipping Regulars,Cant Lose Them,451,6,1092.13
+14009,Slipping Regulars,At Risk,199,3,1090.23
+17726,Slipping Regulars,Cant Lose Them,396,7,1089.56
+17908,Slipping Regulars,Cant Lose Them,374,5,1088.82
+18218,Slipping Regulars,At Risk,212,4,1086.14
+14343,Slipping Regulars,At Risk,422,4,1079.66
+16231,Slipping Regulars,At Risk,380,4,1074.47
+13567,Slipping Regulars,At Risk,429,4,1074.19
+12639,Slipping Regulars,At Risk,239,3,1072.37
+16955,Slipping Regulars,Loyal Customers,185,6,1072.06
+17871,Slipping Regulars,Cant Lose Them,205,5,1068.95
+17854,Slipping Regulars,Loyal Customers,186,6,1068.5
+17849,Slipping Regulars,Cant Lose Them,219,8,1063.76
+13295,Slipping Regulars,At Risk,360,4,1061.27
+17421,Slipping Regulars,At Risk,387,3,1059.41
+13065,Slipping Regulars,Cant Lose Them,374,5,1050.1
+16391,Slipping Regulars,At Risk,401,4,1048.86
+14734,Slipping Regulars,At Risk,426,4,1045.47
+13613,Slipping Regulars,Cant Lose Them,453,5,1039.85
+14248,Slipping Regulars,At Risk,319,3,1032.95
+15887,Slipping Regulars,At Risk,407,3,1027.15
+15003,Slipping Regulars,Cant Lose Them,474,6,1022.03
+16787,Slipping Regulars,At Risk,398,4,1017.53
+13333,Slipping Regulars,At Risk,412,3,1015.74
+13039,Slipping Regulars,At Risk,585,4,1010.73
+17362,Slipping Regulars,Cant Lose Them,240,7,1010.54
+15771,Slipping Regulars,At Risk,605,3,1006.54
+17578,Slipping Regulars,Cant Lose Them,219,7,1003.73
+16435,Slipping Regulars,At Risk,513,3,1003.07
+16623,Slipping Regulars,At Risk,246,4,1002.49
+15508,Slipping Regulars,Cant Lose Them,190,6,1000.27
+17539,Slipping Regulars,At Risk,629,3,997.34
+13857,Slipping Regulars,Cant Lose Them,394,6,997.01
+14430,Slipping Regulars,At Risk,512,3,992.1
+16130,Slipping Regulars,At Risk,423,4,987.48
+13439,Slipping Regulars,At Risk,256,3,986.61
+13368,Slipping Regulars,At Risk,257,4,986.1
+14230,Slipping Regulars,At Risk,436,3,979.8
+14454,Slipping Regulars,Cant Lose Them,377,5,970.7
+13223,Slipping Regulars,Cant Lose Them,201,6,969.12
+16254,Slipping Regulars,At Risk,379,3,967.44
+16699,Slipping Regulars,Cant Lose Them,381,7,964.9
+14510,Slipping Regulars,At Risk,376,3,964.55
+15109,Slipping Regulars,At Risk,246,3,961.9
+13466,Slipping Regulars,Loyal Customers,185,5,952.25
+17955,Slipping Regulars,Cant Lose Them,199,6,949.9
+16227,Slipping Regulars,At Risk,226,3,948.82
+14350,Slipping Regulars,At Risk,275,3,947.8
+17356,Slipping Regulars,Cant Lose Them,312,5,946.47
+17544,Slipping Regulars,At Risk,391,3,944.82
+16199,Slipping Regulars,Cant Lose Them,393,7,942.75
+17604,Slipping Regulars,Cant Lose Them,218,6,942.38
+15268,Slipping Regulars,At Risk,479,3,941.25
+14615,Slipping Regulars,Cant Lose Them,395,5,934.26
+14924,Slipping Regulars,At Risk,246,3,931.01
+15723,Slipping Regulars,At Risk,365,4,930.7
+12373,Slipping Regulars,At Risk,312,3,927.65
+14326,Slipping Regulars,At Risk,243,3,923.98
+16109,Slipping Regulars,At Risk,219,3,923.58
+17472,Slipping Regulars,At Risk,192,4,922.35
+14605,Slipping Regulars,At Risk,375,4,920.71
+17363,Slipping Regulars,At Risk,396,3,920.46
+14061,Slipping Regulars,At Risk,508,3,917.43
+14199,Slipping Regulars,At Risk,219,4,916.5
+14839,Slipping Regulars,At Risk,419,3,915.28
+14423,Slipping Regulars,At Risk,219,3,914.96
+14549,Slipping Regulars,At Risk,312,4,913.6
+16034,Slipping Regulars,Cant Lose Them,197,6,908.37
+16947,Slipping Regulars,At Risk,236,4,906.31
+16975,Slipping Regulars,At Risk,424,3,902.42
+16138,Slipping Regulars,At Risk,379,3,902.4
+17176,Slipping Regulars,At Risk,202,3,902.32
+17322,Slipping Regulars,Cant Lose Them,377,5,900.64
+12998,Slipping Regulars,At Risk,493,3,897.38
+17226,Slipping Regulars,At Risk,309,3,895.47
+12811,Slipping Regulars,At Risk,262,4,893.9
+13288,Slipping Regulars,Cant Lose Them,444,5,892.16
+13872,Slipping Regulars,At Risk,528,3,891.32
+17987,Slipping Regulars,Loyal Customers,186,5,889.92
+14065,Slipping Regulars,At Risk,390,3,889.37
+14813,Slipping Regulars,At Risk,370,4,888.91
+14994,Slipping Regulars,Cant Lose Them,383,5,886.64
+14933,Slipping Regulars,At Risk,444,4,885.0
+17708,Slipping Regulars,At Risk,188,4,884.18
+12785,Slipping Regulars,At Risk,365,3,883.31
+16387,Slipping Regulars,Cant Lose Them,323,5,882.46
+16228,Slipping Regulars,At Risk,386,3,881.06
+17062,Slipping Regulars,Cant Lose Them,314,6,880.81
+17746,Slipping Regulars,At Risk,241,4,873.43
+17167,Slipping Regulars,At Risk,380,3,867.11
+17358,Slipping Regulars,Cant Lose Them,304,5,861.01
+13891,Slipping Regulars,At Risk,379,3,859.21
+15266,Slipping Regulars,Cant Lose Them,339,5,852.21
+14437,Slipping Regulars,Cant Lose Them,366,5,850.84
+14202,Slipping Regulars,At Risk,382,3,847.76
+13641,Slipping Regulars,At Risk,641,4,847.72
+14686,Slipping Regulars,Cant Lose Them,415,5,844.58
+18108,Slipping Regulars,At Risk,255,3,842.46
+14355,Slipping Regulars,At Risk,366,3,840.05
+15224,Slipping Regulars,Cant Lose Them,359,5,837.26
+13795,Slipping Regulars,At Risk,389,4,836.3
+15542,Slipping Regulars,At Risk,513,3,833.16
+16798,Slipping Regulars,At Risk,555,3,832.21
+15617,Slipping Regulars,At Risk,397,3,828.55
+17003,Slipping Regulars,At Risk,403,4,828.21
+17332,Slipping Regulars,Cant Lose Them,529,5,827.77
+13922,Slipping Regulars,At Risk,352,3,826.65
+17880,Slipping Regulars,At Risk,365,3,824.92
+14260,Slipping Regulars,At Risk,472,3,824.28
+12891,Slipping Regulars,Loyal Customers,186,11,819.5
+17683,Slipping Regulars,At Risk,386,3,819.01
+14890,Slipping Regulars,At Risk,254,3,817.25
+15180,Slipping Regulars,At Risk,368,3,816.93
+16943,Slipping Regulars,At Risk,212,3,816.73
+14556,Slipping Regulars,At Risk,597,3,815.69
+15759,Slipping Regulars,Cant Lose Them,219,7,810.98
+13479,Slipping Regulars,At Risk,201,4,808.5
+14872,Slipping Regulars,At Risk,484,3,802.68
+15314,Slipping Regulars,At Risk,200,3,800.65
+17023,Slipping Regulars,At Risk,418,3,800.18
+16048,Slipping Regulars,At Risk,374,4,800.09
+13041,Slipping Regulars,At Risk,451,4,799.13
+17281,Slipping Regulars,Cant Lose Them,375,6,797.85
+17212,Slipping Regulars,At Risk,254,3,794.41
+17251,Slipping Regulars,At Risk,363,3,790.28
+17952,Slipping Regulars,At Risk,379,4,788.46
+16661,Slipping Regulars,At Risk,541,4,788.31
+13770,Slipping Regulars,At Risk,423,4,785.37
+13595,Slipping Regulars,At Risk,517,3,784.48
+16155,Slipping Regulars,Cant Lose Them,382,5,781.05
+15246,Slipping Regulars,At Risk,239,3,780.4
+13965,Slipping Regulars,At Risk,477,3,777.66
+15092,Slipping Regulars,At Risk,216,3,773.16
+13781,Slipping Regulars,At Risk,251,3,770.88
+17801,Slipping Regulars,At Risk,452,3,767.48
+13484,Slipping Regulars,At Risk,242,3,767.32
+12410,Slipping Regulars,At Risk,309,3,761.46
+16392,Slipping Regulars,At Risk,270,3,755.45
+15331,Slipping Regulars,At Risk,500,3,755.41
+14176,Slipping Regulars,Cant Lose Them,298,5,753.56
+15107,Slipping Regulars,Cant Lose Them,312,9,752.6
+14247,Slipping Regulars,Cant Lose Them,279,5,750.61
+14942,Slipping Regulars,At Risk,402,4,746.56
+17889,Slipping Regulars,Cant Lose Them,213,7,746.42
+12793,Slipping Regulars,At Risk,335,3,745.53
+14228,Slipping Regulars,At Risk,438,3,745.5
+12525,Slipping Regulars,At Risk,499,3,745.18
+13070,Slipping Regulars,At Risk,193,4,743.9
+15420,Slipping Regulars,Cant Lose Them,435,6,743.0
+14302,Slipping Regulars,At Risk,431,3,742.9
+13713,Slipping Regulars,At Risk,409,3,740.76
+15070,Slipping Regulars,At Risk,373,3,737.05
+18190,Slipping Regulars,Cant Lose Them,193,5,735.67
+13452,Slipping Regulars,At Risk,260,3,729.8
+17756,Slipping Regulars,At Risk,376,3,728.75
+17141,Slipping Regulars,At Risk,419,4,727.58
+18078,Slipping Regulars,At Risk,218,4,725.53
+18247,Slipping Regulars,At Risk,415,3,721.43
+13921,Slipping Regulars,At Risk,403,4,720.75
+12573,Slipping Regulars,Cant Lose Them,228,5,717.41
+17860,Slipping Regulars,At Risk,369,4,717.39
+15309,Slipping Regulars,At Risk,611,4,715.53
+14048,Slipping Regulars,At Risk,306,3,713.89
+13512,Slipping Regulars,At Risk,261,4,713.39
+17374,Slipping Regulars,At Risk,219,3,711.21
+17051,Slipping Regulars,At Risk,195,4,706.49
+14699,Slipping Regulars,At Risk,215,4,702.6
+16997,Slipping Regulars,At Risk,289,3,702.0
+17825,Slipping Regulars,At Risk,599,4,701.96
+16565,Slipping Regulars,At Risk,365,4,700.45
+13101,Slipping Regulars,At Risk,235,4,695.4
+15361,Slipping Regulars,At Risk,362,4,689.07
+13809,Slipping Regulars,At Risk,306,3,679.7
+13729,Slipping Regulars,At Risk,436,3,676.43
+13585,Slipping Regulars,At Risk,531,3,674.46
+16226,Slipping Regulars,Cant Lose Them,204,5,672.17
+15562,Slipping Regulars,At Risk,352,3,671.43
+13415,Slipping Regulars,At Risk,473,4,665.42
+16679,Slipping Regulars,At Risk,367,3,663.31
+16862,Slipping Regulars,At Risk,548,4,662.33
+14182,Slipping Regulars,At Risk,444,4,660.07
+17874,Slipping Regulars,Loyal Customers,186,6,658.26
+15715,Slipping Regulars,Cant Lose Them,556,5,658.02
+15207,Slipping Regulars,At Risk,417,3,657.27
+13433,Slipping Regulars,At Risk,502,4,656.87
+12791,Slipping Regulars,Cant Lose Them,374,5,656.83
+16117,Slipping Regulars,At Risk,190,3,650.05
+15643,Slipping Regulars,At Risk,192,3,647.4
+13474,Slipping Regulars,At Risk,237,3,646.59
+15945,Slipping Regulars,At Risk,366,4,646.27
+17380,Slipping Regulars,At Risk,435,3,643.75
+17963,Slipping Regulars,At Risk,472,4,643.16
+15183,Lost One-Timers,At Risk,548,3,637.03
+14425,Slipping Regulars,At Risk,435,3,635.89
+16428,Slipping Regulars,At Risk,414,3,635.54
+17334,Slipping Regulars,At Risk,303,3,634.73
+17375,Slipping Regulars,At Risk,200,4,632.95
+13820,Slipping Regulars,At Risk,419,3,632.5
+13540,Slipping Regulars,At Risk,468,3,632.39
+14283,Slipping Regulars,At Risk,464,4,628.44
+17691,Slipping Regulars,At Risk,359,4,627.35
+16792,Slipping Regulars,Cant Lose Them,283,5,623.46
+16431,Slipping Regulars,At Risk,214,3,623.28
+17639,Slipping Regulars,Cant Lose Them,277,6,615.17
+14558,Lost One-Timers,At Risk,655,3,614.1
+12855,Slipping Regulars,At Risk,373,4,612.84
+16158,Slipping Regulars,Cant Lose Them,523,9,611.32
+17325,Slipping Regulars,At Risk,281,3,609.57
+15717,Slipping Regulars,Cant Lose Them,235,5,607.0
+17707,Slipping Regulars,Loyal Customers,186,8,605.05
+12734,Slipping Regulars,At Risk,353,3,603.65
+17998,Slipping Regulars,At Risk,381,3,601.74
+15424,Slipping Regulars,At Risk,255,3,597.78
+17845,Slipping Regulars,At Risk,556,4,596.09
+17209,Lost One-Timers,At Risk,650,3,595.7
+14746,Slipping Regulars,At Risk,407,4,593.5
+15346,Slipping Regulars,At Risk,333,3,591.65
+17098,Slipping Regulars,At Risk,382,3,591.07
+17968,Slipping Regulars,At Risk,374,4,590.44
+15160,Slipping Regulars,At Risk,358,4,589.27
+15191,Lost One-Timers,At Risk,464,3,588.05
+14455,Slipping Regulars,At Risk,433,4,587.12
+14729,Lost One-Timers,At Risk,374,3,586.24
+14670,Slipping Regulars,At Risk,281,3,583.33
+15918,Slipping Regulars,At Risk,191,3,582.88
+17392,Slipping Regulars,At Risk,307,3,579.92
+13262,Slipping Regulars,At Risk,264,3,573.45
+12817,Slipping Regulars,At Risk,282,3,570.98
+14170,Lost One-Timers,At Risk,376,3,570.18
+17035,Slipping Regulars,At Risk,246,4,568.39
+13998,Lost One-Timers,At Risk,447,3,566.7
+12601,Slipping Regulars,Cant Lose Them,190,6,565.76
+16250,Slipping Regulars,At Risk,262,3,565.24
+16658,Slipping Regulars,Cant Lose Them,369,5,563.48
+15055,Lost One-Timers,At Risk,475,3,549.12
+18039,Slipping Regulars,At Risk,375,4,548.22
+13684,Slipping Regulars,At Risk,286,4,544.42
+13008,Lost One-Timers,At Risk,324,3,543.28
+15959,Lost One-Timers,At Risk,683,3,542.89
+13785,Slipping Regulars,At Risk,429,4,542.49
+16060,Lost One-Timers,At Risk,401,3,541.95
+17580,Slipping Regulars,Cant Lose Them,253,5,538.07
+13948,Slipping Regulars,At Risk,361,4,536.86
+15890,Slipping Regulars,Cant Lose Them,395,5,535.65
+16707,Slipping Regulars,At Risk,401,4,533.41
+16935,Lost One-Timers,At Risk,382,3,530.86
+15917,Slipping Regulars,Cant Lose Them,248,5,530.17
+17681,Slipping Regulars,Cant Lose Them,598,5,529.6
+13057,Lost One-Timers,At Risk,531,3,528.24
+14616,Slipping Regulars,Cant Lose Them,243,5,527.78
+16421,Lost One-Timers,At Risk,377,3,526.27
+17223,Lost One-Timers,At Risk,311,3,523.04
+12956,Slipping Regulars,At Risk,307,4,521.89
+13287,Lost One-Timers,At Risk,604,3,519.67
+13190,Lost One-Timers,At Risk,545,3,518.76
+12897,Slipping Regulars,At Risk,205,4,514.25
+14570,Lost One-Timers,At Risk,281,3,512.4
+15691,Slipping Regulars,At Risk,253,4,511.8
+17524,Lost One-Timers,At Risk,362,3,508.9
+14949,Slipping Regulars,At Risk,470,4,498.55
+17923,Lost One-Timers,At Risk,283,3,497.0
+15278,Slipping Regulars,At Risk,562,4,496.16
+16977,Slipping Regulars,At Risk,396,4,496.0
+17995,Lost One-Timers,At Risk,282,3,495.48
+17548,Slipping Regulars,At Risk,234,4,486.48
+15447,Slipping Regulars,Cant Lose Them,331,5,484.93
+15780,Lost One-Timers,Needs Attention,184,3,475.28
+17996,Lost One-Timers,At Risk,380,3,469.73
+16390,Lost One-Timers,At Risk,537,3,467.5
+13642,Slipping Regulars,At Risk,216,4,459.45
+13957,Lost One-Timers,At Risk,418,3,458.25
+15589,Lost One-Timers,At Risk,256,3,456.58
+12999,Lost One-Timers,At Risk,197,3,455.88
+17067,Lost One-Timers,At Risk,725,3,454.54
+12361,Slipping Regulars,At Risk,288,4,451.25
+12831,Lost One-Timers,At Risk,263,3,451.11
+12414,Slipping Regulars,At Risk,218,4,442.41
+15881,Slipping Regulars,Cant Lose Them,313,5,438.24
+17807,Lost One-Timers,At Risk,396,3,437.87
+13150,Lost One-Timers,At Risk,485,3,435.02
+14238,Lost One-Timers,At Risk,327,3,434.23
+16888,Lost One-Timers,At Risk,401,3,434.2
+16939,Lost One-Timers,At Risk,489,3,433.85
+17740,Slipping Regulars,Cant Lose Them,390,6,426.9
+16913,Lost One-Timers,At Risk,291,3,423.91
+14413,Lost One-Timers,At Risk,363,3,421.72
+13442,Lost One-Timers,At Risk,668,3,419.87
+15262,Lost One-Timers,At Risk,324,3,418.82
+16832,Slipping Regulars,Loyal Customers,185,5,417.61
+16356,Slipping Regulars,Cant Lose Them,198,6,414.42
+13002,Lost One-Timers,At Risk,319,3,414.13
+13686,Lost One-Timers,Needs Attention,183,3,409.04
+13807,Lost One-Timers,At Risk,368,3,397.3
+16538,Lost One-Timers,At Risk,542,3,395.07
+18048,Lost One-Timers,At Risk,204,3,394.93
+15960,Lost One-Timers,At Risk,375,4,394.0
+15446,Lost One-Timers,At Risk,377,3,390.0
+17918,Lost One-Timers,At Risk,501,3,388.44
+16827,Slipping Regulars,Cant Lose Them,394,5,387.18
+14779,Lost One-Timers,At Risk,281,3,386.15
+12788,Lost One-Timers,At Risk,464,4,384.9
+16868,Lost One-Timers,At Risk,395,3,384.56
+14322,Lost One-Timers,At Risk,430,4,384.3
+17804,Lost One-Timers,At Risk,377,3,383.78
+17753,Lost One-Timers,At Risk,465,4,379.56
+14353,Lost One-Timers,At Risk,216,3,376.5
+13997,Lost One-Timers,At Risk,520,3,376.46
+14962,Lost One-Timers,At Risk,271,4,366.91
+12889,Lost One-Timers,At Risk,382,4,365.66
+12651,Lost One-Timers,At Risk,335,4,365.3
+16378,Lost One-Timers,At Risk,248,3,362.95
+17945,Lost One-Timers,At Risk,697,3,359.5
+17200,Lost One-Timers,At Risk,388,4,356.71
+14172,Lost One-Timers,At Risk,606,3,356.27
+17912,Slipping Regulars,Cant Lose Them,311,6,356.2
+12845,Lost One-Timers,At Risk,268,4,354.09
+13413,Slipping Regulars,Cant Lose Them,640,6,353.12
+17780,Lost One-Timers,At Risk,668,3,346.56
+12829,Lost One-Timers,At Risk,337,3,345.35
+16259,Lost One-Timers,At Risk,411,3,340.94
+17542,Lost One-Timers,At Risk,270,3,340.85
+13584,Lost One-Timers,At Risk,307,3,340.4
+14823,Lost One-Timers,Needs Attention,181,3,321.43
+15869,Lost One-Timers,At Risk,278,3,321.11
+15323,Lost One-Timers,At Risk,563,3,320.9
+16234,Lost One-Timers,At Risk,477,3,312.78
+14122,Lost One-Timers,At Risk,407,3,309.77
+13187,Lost One-Timers,At Risk,338,4,309.66
+15724,Lost One-Timers,At Risk,202,3,299.8
+12547,Lost One-Timers,At Risk,198,3,299.58
+13346,Slipping Regulars,Cant Lose Them,463,6,299.4
+17991,Lost One-Timers,At Risk,226,3,298.65
+14727,Lost One-Timers,At Risk,275,3,291.13
+13679,Lost One-Timers,At Risk,494,3,281.26
+16890,Lost One-Timers,At Risk,477,3,277.91
+13399,Lost One-Timers,At Risk,465,3,275.4
+13533,Lost One-Timers,Needs Attention,183,3,269.09
+17808,Lost One-Timers,At Risk,549,4,262.64
+15852,Lost One-Timers,At Risk,187,3,257.26
+12665,Lost One-Timers,At Risk,325,3,247.45
+18002,Lost One-Timers,At Risk,376,4,237.62
+13672,Lost One-Timers,At Risk,302,3,233.53
+16436,Lost One-Timers,At Risk,669,3,231.84
+17185,Lost One-Timers,At Risk,592,3,229.46
+15591,Lost One-Timers,At Risk,583,3,217.9
+13133,Lost One-Timers,At Risk,274,3,200.45
+17026,Lost One-Timers,Needs Attention,186,3,175.83
+12346,Lost One-Timers,At Risk,326,3,169.36
+15359,Lost One-Timers,Cant Lose Them,663,8,162.6
+15729,Lost One-Timers,At Risk,213,3,154.7
+15684,Lost One-Timers,At Risk,548,3,147.8
+15873,Lost One-Timers,At Risk,500,4,138.24
+15283,Lost One-Timers,At Risk,391,3,135.43
+16544,Lost One-Timers,At Risk,520,4,110.3
+17763,Lost One-Timers,At Risk,264,4,51.15

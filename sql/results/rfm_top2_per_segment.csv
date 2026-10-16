@@ -1,0 +1,19 @@
+segment,customer_id,recency_days,frequency,monetary,rfm_code
+About To Sleep,12378,130,2,5416.32,325
+About To Sleep,14459,156,2,5375.74,325
+At Risk,15749,236,3,21535.9,235
+At Risk,14028,551,3,6786.0,135
+Cant Lose Them,16754,373,29,54692.82,255
+Cant Lose Them,13093,276,55,53283.3,255
+Champions,18102,1,145,578408.64,555
+Champions,14646,2,145,523202.74,555
+Hibernating,13687,439,1,11880.84,115
+Hibernating,18052,565,1,10877.18,115
+Loyal Customers,18251,88,9,26278.86,355
+Loyal Customers,13802,139,19,25491.56,355
+Needs Attention,15098,183,3,39619.5,335
+Needs Attention,12497,82,3,5996.5,335
+New / Recent Customers,12357,34,2,17437.66,425
+New / Recent Customers,15195,3,1,3861.0,515
+Potential Loyalists,16000,3,3,12393.7,535
+Potential Loyalists,12798,11,4,8510.93,535

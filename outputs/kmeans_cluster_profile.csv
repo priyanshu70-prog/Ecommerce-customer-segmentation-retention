@@ -1,0 +1,5 @@
+cluster_name,customers,avg_recency_days,avg_orders,avg_net_spend,total_net_revenue,pct_customers,pct_revenue
+VIP Loyalists,1189,28.23,19.15,10133.8,12049086.4,20.39,73.64
+Slipping Regulars,1440,227.22,5.08,1859.85,2678188.61,24.69,16.37
+Active Newcomers,1253,29.11,3.02,818.32,1025356.22,21.48,6.27
+Lost One-Timers,1950,395.59,1.39,312.28,608953.65,33.44,3.72

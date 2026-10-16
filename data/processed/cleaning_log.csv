@@ -1,0 +1,8 @@
+step,rows_remaining,rows_removed,pct_of_raw_kept
+0. raw data,1067371,0,100.0
+1. drop exact duplicates,1033036,34335,96.8
+2. drop rows with no CustomerID,797885,235151,74.8
+3. move cancellation invoices to 'returns',779495,18390,73.0
+4. drop non-product stock codes,776639,2856,72.8
+5. drop Quantity<=0 or Price<=0,776579,60,72.8
+6. final clean sales table,776579,0,72.8
